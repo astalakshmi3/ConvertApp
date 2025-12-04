@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>astalakshmi.example</groupId>
-    <artifactId>ConvertApp</artifactId>
+    <artifactId>ConverterApp</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
